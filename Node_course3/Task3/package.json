@@ -1,0 +1,12 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "description": "> #### Daire Modüler Dosyası\r > - Daire alan : circleArea ve daire çevre : circleCircumference fonksiyonları içeren ve consola sonuçları yazdıran circle.js dosyası oluşturunuz.\r > - module.exports yöntemi ile fonksiyonları oluştururken export ediniz.\r > - require ve object destructing kullanarak index.js dosyasında yarıçap (r) 5 olacak şekilde ekran çıktısını alınız.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
