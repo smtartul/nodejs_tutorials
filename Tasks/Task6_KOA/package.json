@@ -1,0 +1,15 @@
+{
+  "name": "task6_koa",
+  "version": "1.0.0",
+  "description": "> #### Koa.js endi Web Sunucumuzu yazalım.\r > ##### Öncelikle şunu belirteyim. Koa.js hakkında konuşmadığımızı biliyorum ve bu ödev ilk aşamada bizi zorlayacak. Buradaki amacım yeni bir teknolojiye başlama cesareti oluşturmak ve hata yapma özgürlüğümüz olduğunu göstermek.\r > - Öncelikle şunu belirteyim. Koa.js hakkında konuşmadığımızı biliyorum ve bu ödev ilk aşamada bizi zorlayacak. Buradaki amacım yeni bir teknolojiye başlama cesareti oluşturmak ve hata yapma özgürlüğümüz olduğunu göstermek.\r > - index, hakkimda ve iletisim sayfaları oluşturalım.\r > - index, hakkimda ve iletisim sayfaları oluşturalım.\r > - port numarası olarak 3000'i kullanalım.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}

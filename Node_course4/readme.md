@@ -5,8 +5,8 @@
 > #### Kendi Web Sunucumuzu yazalım.
 > ##### Kendi bilgisayarımızda aşağıdaki özellikleri kullanarak sunucumuzu yazalım.
 > - createServer metodunu kullanacağız.
-> - createServer metodunu kullanacağız.
-> - createServer metodunu kullanacağız.
+> - index, hakkimda ve iletisim sayfaları oluşturalım.
+> - index, hakkimda ve iletisim sayfaları oluşturalım.
 > - port numarası olarak 5000'i kullanalım.
 
 ### USAGE
